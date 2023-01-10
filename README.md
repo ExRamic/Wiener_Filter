@@ -1,1 +1,2 @@
-### Wiener Filter in Image Processing with Motion Blur ###
+### Wiener Filter in Image Processing
+Degradation: Motion Blur ###
