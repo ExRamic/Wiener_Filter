@@ -1,1 +1,1 @@
-# Wiener_Filter
+# Wiener Filter in Image Processing with Motion Blur
